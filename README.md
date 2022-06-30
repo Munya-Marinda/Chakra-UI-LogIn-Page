@@ -1,12 +1,18 @@
 # This is a Log-In interface that I built using React.js and Chakra-UI.
 
-Features:
-  - Responsive to mobile and wideview. 
+- This is a simple responsive log-in page.
+- I did this project as a challenge in order to learn Chakra-Ui. 
+- Chakra-UI is a modular and component libraries for building use interfaces.
+- It took close to a week to learn how it's implemented and the learning process felt natural as it is built to work with React JS.
+- The biggest challenge was figuring how to make the interface responsive
+- The project was built from scratch with only boilerplate code created by Next JS
+- I designed all the image assets which includes the logo, background and illustration.
 
 # [Images]
-
+## This is how it displays on a wideview.
 ![Screen Shot 03 1 - background designed](https://user-images.githubusercontent.com/84540577/174600963-fe51bd2d-b94a-40bc-9c1f-eb7a2e8fcd77.png)
 
+## This is how it displays on a mobileview.
 ![Screen shot 03 2](https://user-images.githubusercontent.com/84540577/174602693-f91a3d04-f85c-4a7a-b81e-b504d327c01b.jpg)
 
  
